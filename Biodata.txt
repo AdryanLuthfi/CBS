@@ -1,2 +1,4 @@
 Nama	: Adryan Luthfi Faiz
 NPM	: 140810160049
+TTL	: Jakarta 17 Mei 1998
+JK	: Laki-laki
